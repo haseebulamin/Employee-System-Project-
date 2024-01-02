@@ -1,0 +1,31 @@
+Employee System using OOP In java  | java swing  |  GUI interface
+
+*** Without Database ***
+
+--------------------------------------
+|||   LOGIN information    ||| 
+Username:   haseeb
+passwaord:  12345
+
+--------------------------------------
+
+-->    project start from App.java file 
+-->    every code of screen individaul file 
+-->    code in .java file instead of .class file
+
+--------------------------------------
+
+
+**** Parts ****
+there are three type of Employee 
+1. Web Developer
+2. Game Developer
+3. SQA Engineer 
+
+we can perform some operations for it. like,
+o  Add
+o  Update 
+o  Search
+o  remove
+
+--------------------------------------------
